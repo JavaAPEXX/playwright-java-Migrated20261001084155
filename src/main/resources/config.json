@@ -1,0 +1,7 @@
+{
+  "appUrl": "https://www.saucedemo.com/v1/",
+  "headlessMode": false,
+  "slowMo": 1000,
+  "userName": "standard_user",
+  "userPassword": "sauce_secret"
+}
